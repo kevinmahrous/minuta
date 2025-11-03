@@ -1,0 +1,26 @@
+{
+  "name": "minuta",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.2.8",
+    "@heroicons/vue": "^2.2.0",
+    "@primeuix/themes": "^1.2.5",
+    "@tailwindcss/vite": "^4.1.16",
+    "firebase": "^12.4.0",
+    "primevue": "^4.4.1",
+    "tailwindcss": "^4.1.16",
+    "vue": "^3.5.22",
+    "vue-router": "^4.6.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.1.7"
+  }
+}
