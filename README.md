@@ -53,3 +53,9 @@ npm install
 # run the app
 npm run dev
 ```
+
+## Contributing
+
+Contributing is very welcome. If you can simplify a function, re-structure the database, add a feature, fix a bug, etc. All are welcome.
+
+My goal is to make Minuta a community project after all, beacure there's not much good open-source time-tracking app or how I hope MInuta will end up be.
